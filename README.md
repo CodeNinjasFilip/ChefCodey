@@ -1,2 +1,2 @@
 # ChefCodey
-Make someone's lunch in a café.
+Make someone's lunch in a café. That's basically it
